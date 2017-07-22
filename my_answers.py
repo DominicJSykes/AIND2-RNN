@@ -70,7 +70,7 @@ def window_transform_text(text, window_size, step_size):
     outputs = []
     
     #get (P (length of text) - T (window_size)) / M (step_size) pairs
-    for i in range(int((len(text)-window_size)/step_size)):
+    for i in range(int((len(text)-window_size)/step_size)+1):
         
         #string to contain each input sequence
         x = ""

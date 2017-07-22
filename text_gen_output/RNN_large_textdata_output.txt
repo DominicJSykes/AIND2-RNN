@@ -1,5 +1,15 @@
 -------------------
 input chars = 
-se but admirably balanced mind. he was, i take it, the most perfect reasoning and observing machine "
+in the passage, paused immediately outside the door. then there was a loud and authoritative tap.  c"
 predicted chars = 
-see that the deather was a right to the country of the bell the case into the was a strugg at his ch"
+hare the corone of the companion.  yes, i am not most it not to be the hold to her of the was a gred"
+-------------------
+input chars = 
+ i was certain that it was indeed he. with a nod he vanished into the bedroom, whence he emerged in "
+predicted chars = 
+the waste sade in the coundrous.  he was a little glan without least of marres mose for a fout of an"
+-------------------
+input chars = 
+y.  he disappeared into his bedroom and returned in a few minutes in the character of an amiable and"
+predicted chars = 
+ a stare and lestluted and such a very beloned beright unot it was a very beloned been and so monely"
