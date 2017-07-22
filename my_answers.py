@@ -82,8 +82,6 @@ def window_transform_text(text, window_size, step_size):
         #append each sequence - output pair to the containers for input/output pairs
         inputs.append(x)
         outputs.append(text[i*step_size + window_size])
-    
-    print (inputs[0])
 
     return inputs,outputs
 
